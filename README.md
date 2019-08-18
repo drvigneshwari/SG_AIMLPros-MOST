@@ -1,5 +1,6 @@
 # SPAIC
-This SPAIC - Udacity | Facebook Secure and Privacy AI Challenge 2019  
+
+SPAIC - Udacity | Facebook Secure and Privacy AI Challenge 2019  
 
 Project 1 - MOST (SPAIC/Projects)
 
