@@ -19,7 +19,7 @@ Rice is the staple food for more than half the world's population; accordingly, 
   <img src="https://davidcliveprice.com/wp-content/uploads/2014/11/asian-rice-farmers.jpg" width="350" title="hover text">
   </p>
 
-<p>We came up with a model that classifies whether a rice leaf :</p>
+<p>We came up with a model that classifies whether a rice leaf </p>
 
 1) is healthy:
 <br>
@@ -51,7 +51,7 @@ Rice is the staple food for more than half the world's population; accordingly, 
 </p></b>
 
 
-<i><p> For more detailed project introduction: https://github.com/risper25/MOST- (@risper bevalyn)</p></i>
+<i><p> For a more detailed project introduction: https://github.com/risper25/MOST- (@risper bevalyn)</p></i>
 
 
 # Project Participants:
