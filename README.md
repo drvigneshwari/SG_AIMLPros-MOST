@@ -146,12 +146,22 @@ The learning rates of pretrained models selected in this project range between 0
 
 # Conclusion
 
-GoogleNet is a class of architecture designed by researchers at Google. It was the winner of ImageNet 2014, and it was proven in our project to be a winner as well.  
+GoogleNet is a class of architecture designed by researchers at Google. It was the winner of ImageNet 2014, and it is proven to be a winner for our rice disease project as well. Not only its architecture goes deeper, researchers also took a noval approach in its structure, the so called inception model:
+
+<br>
+<p align="center">
+  <img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/08/08131905/temp10.png" width="300" height="200" title="hover text">
+  </p>
+</br>
+
+As we can see, multiple types of feature extractors are present, which is drastically different from the sequential architectures of other models.  Also, the final architecture contains multiple inception modules stacked one over the other, which helps the model converges faster.  
 
 
 
 
-# Resources used for reference
+
+
+# References
 @Ellyana Linden - DLND Udacity course
 
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
