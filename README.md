@@ -17,7 +17,7 @@ This is the slack handles of the members
 
 | Name| Slack Name|
 |--- | ---|
-| Vigneshwari |@Vigneshwari|
+| Vigneshwari Ramakrishnan|@Vigneshwari|
 | Shudipto Trafder |@Shudipto Trafder
 | Laura Truncellito |@LauraT 
 | Ellyana Linden |@Ellyana Linden
