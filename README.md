@@ -8,7 +8,7 @@ SPAIC - Udacity | Facebook Secure and Privacy AI Challenge 2019.
 Implementing different models on same dataset | Providing statistics on "which is the most accurate model for image processing" through the details collected from the models implemented 
 
 ### Purpose 2:
-Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth. Nearly a fifth of the world’s population are rice farmers.However,they approximately loose 37% of their rice crop yields to various rice diseases.
+Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth. Nearly a fifth of the world’s population are rice farmers.However,they approximately loose 37% of their rice crop yields to various rice diseases. 
 
 
 # Project Participants (Total count : 7)
@@ -32,10 +32,10 @@ This is the slack handles of the members
 5) @happycoder354
 
 ## 2) Technical Documentations | Other
-1) @LauraT - Description of the models implemented for the projects | Readme file
-2) @Vigneshwari - Readme file | Project deck | Github Project repo | Portfolio
-3) @risper bevalyn - Introduction of the project | Data collection and chart in google sheet
-4) @Shudipto Trafder - Essential attributes identification and listing  
+1) @LauraT - Description of the models implemented for the projects | Readme file |  https://github.com/ltruncel/team-MOST-project-showcase-challenge/blob/master/README.md 
+2) @Vigneshwari - Readme file | Project deck | Github Project repo | Portfolio | https://github.com/drvigneshwari/SG_AIMLPros-MOST/edit/master/README.md
+3) @risper bevalyn - Introduction of the project | Data collection and chart in google sheet | https://github.com/risper25/MOST-
+4) @Shudipto Trafder - Essential attributes identification and listing  | https://secureprivataischolar.slack.com/archives/DLFN5DQUT/p1566140170009000
    
 # Dataset Utilized
 
