@@ -92,6 +92,7 @@ https://www.learnopencv.com/pytorch-for-beginners-image-classification-using-pre
 
 https://pytorch.org/docs/stable/torchvision/models.html
 
+@LauraT
 <p>CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more</p> 
 <p>(https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)</p>
 
