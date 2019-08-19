@@ -37,7 +37,7 @@ This is the slack handles of the members
 ## 2) Technical Documentations | Other
 |Slack Name|Contribution Areas|
 |---| ---|
-| @LauraT |Description of the models implemented for the projects, Readme file |
+| @LauraT |Description of the models, Readme file |
 | @Vigneshwari |Readme file,  Project deck, Github Project repo,  Portfolio |
 | @risper bevalyn| Introduction of the project, Data collection and chart in google sheet |
 | @Shudipto Trafder| Essential attributes identification and listing, Readme file |
