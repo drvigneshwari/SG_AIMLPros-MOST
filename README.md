@@ -144,6 +144,9 @@ The learning rates of pretrained models selected in this project range between 0
 <p>https://docs.google.com/spreadsheets/d/1ZMs9j4nvNw2387g6x5ZdN9uEodQqYqnViGnDU-fwNxQ/edit#gid=0</p>
 
 
+# Conclusion
+
+GoogleNet is a class of architecture designed by researchers at Google. It was the winner of ImageNet 2014, and it was proven in our project to be a winner as well.  
 
 
 
@@ -168,6 +171,9 @@ https://pytorch.org/docs/stable/torchvision/models.html
 
 <p>Going Deeper with Convolutions</p>
 <p>https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf</p>
+
+10 Advanced Deep Learning Architectures Data Scientists Should Know
+https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/
 
 <p>TORCHVISION.MODELS</p>
 <p>https://pytorch.org/docs/stable/torchvision/models.html</p>
