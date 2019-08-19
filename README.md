@@ -5,20 +5,56 @@ SPAIC - Udacity | Facebook Secure and Privacy AI Challenge 2019.
 
 # Team-MOST-Project-Showcase-Challenge
 
+Project <b>MOST</b>, as is stated in the name, focuses on <b>MO</b>deling and <b>ST</b>atistics.  Its mission is to implement different models on same dataset and provide statistics regarding the <i>most accurate model for image processing</i> through the details collected from the models implemented.
+
 The goal of this project is to classify rice diseases using a rice disease dataset on Kaggle. By using various pretrained models such as VGG19 and ResNet50, we try to determine the best model for this task and analyze the pros and cons of each model, with the end goal of competing in the Udacity Facebook Private and Secure AI Scholarship Project Showcase Challenge.
 
-## Project MOST (SG_AIMLPros-MOST/Projects)
 
-### Purpose 1: MOST - MOdeling and STatistics 
-Implementing different models on same dataset | Providing statistics on "which is the most accurate model for image processing" through the details collected from the models implemented 
+# Project Overview:
 
-### Purpose 2:
-Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth. Nearly a fifth of the world’s population are rice farmers.However,they approximately loose 37% of their rice crop yields to various rice diseases. 
-We believe our model will help rice farmers know their rice crop’s condition ,hence leading to higher yields.
-For more detailed project introduction: https://github.com/risper25/MOST- (@risper bevalyn)
+Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth. Nearly a fifth of the world’s population are rice farmers. However, they approximately lose 37% of their rice crop yields to various rice diseases. We believe that our model will help rice farmers better understand the condition of their rice crops and in turn lead to higher yields.
 
-# Project Participants (Total count : 7)
-Following are the slack handles of the members
+
+
+<p align="center">
+  <img src="https://davidcliveprice.com/wp-content/uploads/2014/11/asian-rice-farmers.jpg" width="350" title="hover text">
+  </p>
+
+<p>We came up with a model that classifies whether a rice leaf :</p>
+
+1) Is healthy:
+<br>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdIquvBXmAJo2M1YfCDbJajiaB1BAcOMxJYT0qr82HOsRAIcL" width="150" height="200" title="hover text">
+  </p>
+</br>
+
+2) has Brownspot:
+<p align="center">
+  <img src="http://www.knowledgebank.irri.org/images/stories/brown-spot-1.jpg" width="150" height="200" title="hover text">
+  </p>
+3) has Leafblast:
+<br>
+<p align="center">
+  <img src="https://miro.medium.com/max/706/1*5OIVPVgxZyPy-OE2Lw8lBg.png" width="150" height="200" title="hover text">
+  </p>
+</br>
+4) or has hispa:
+<br>
+<p align="center">
+  <img src="https://content.peat-cloud.com/hd/rice-hispa--1.jpg" width="150" height="200" title="hover text">
+  </p>
+</br>
+
+
+<p> For more detailed project introduction: https://github.com/risper25/MOST- (@risper bevalyn)</p>
+
+
+# Project Participants:
+
+ 
+
+Following are the slack handles of the members (total count: 7)
 
 | Name| Slack Name| Github
 |--- | ---| --- |
@@ -90,9 +126,14 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 ### Test Accuracy:
 GoogleNet results in the highest accuracy (97%), followed by ResNext101_32x8 (81%), ResNet50 (79%, 10 epochs), ResNet50 (69%, 25 epochs), Alexnet (66%), and VGG19 (61%)
 
-### Optimizers
+### Optimizers:
 Two optimizers were selected: Adaptive Moment Estimation (Adam) and Stochastic Gradient Descent (SGD).  Adam is used by @Shudipto Trafder for training resnet 50, and the remaining models were all trained with SGD as an optimizer.
 
+### Loss Function:
+Cross-entropy loss, or log loss, is used to measure the performance of all classification models in this project.
+
+### Learning Rate:
+The learning rates range of pre-trained models selected in this project range between 0.001 and 0.003.  
 
 
 <p>For details of the test accuracy and epochs:</p>
