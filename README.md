@@ -80,11 +80,16 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
 
 # Resources used for reference
-@Ellyana Linden - DLND Udacity course
+1) @Ellyana Linden - DLND Udacity course
+
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+
 https://pytorch.org/docs/stable/torchvision/models.html
-@Vigneshwari
+
+2) @Vigneshwari
+
 https://www.learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/
+
 https://pytorch.org/docs/stable/torchvision/models.html
 
 
