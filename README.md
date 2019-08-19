@@ -167,16 +167,16 @@ https://pytorch.org/docs/stable/torchvision/models.html
 @LauraT
 
 <p>CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more</p> 
-https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
+<p>https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5</p>
 
 <p>Going Deeper with Convolutions</p>
-https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf
+<p>https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf</p>
 
 <p>10 Advanced Deep Learning Architectures Data Scientists Should Know</p>
-https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/
+<p>https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/</p>
 
 <p>TORCHVISION.MODELS</p>
-https://pytorch.org/docs/stable/torchvision/models.html
+<p>https://pytorch.org/docs/stable/torchvision/models.html</p>
 
 
 
