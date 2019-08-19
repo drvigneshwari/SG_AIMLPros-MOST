@@ -91,7 +91,7 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
 https://docs.google.com/spreadsheets/d/1ZMs9j4nvNw2387g6x5ZdN9uEodQqYqnViGnDU-fwNxQ/edit#gid=0
 
-### Test Accuracy vs Epochs
+### Test Accuracy vs Epochs:
 
 https://docs.google.com/spreadsheets/d/1ZMs9j4nvNw2387g6x5ZdN9uEodQqYqnViGnDU-fwNxQ/edit#gid=0
 
