@@ -81,4 +81,12 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
 # Resources used for reference
 
+<p>CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more</p> 
+<p>(https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)</p>
+
+<p>TORCHVISION.MODELS</p>
+<p>https://pytorch.org/docs/stable/torchvision/models.html</p>
+
+
+
 
