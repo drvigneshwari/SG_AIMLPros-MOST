@@ -32,12 +32,14 @@ Rice is the staple food for more than half the world's population;accordingly, i
 <p align="center">
   <img src="http://www.knowledgebank.irri.org/images/stories/brown-spot-1.jpg" width="150" height="200" title="hover text">
   </p>
+  
 3) has Leafblast:
 <br>
 <p align="center">
   <img src="https://miro.medium.com/max/706/1*5OIVPVgxZyPy-OE2Lw8lBg.png" width="150" height="200" title="hover text">
   </p>
 </br>
+
 4) or has hispa:
 <br>
 <p align="center">
