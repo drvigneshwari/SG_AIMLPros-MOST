@@ -55,9 +55,7 @@ Rice is the staple food for more than half the world's population; accordingly, 
 
 
 # Project Participants
-
  
-
 Following are the Slack handles of the members (total count: 7)
 
 | Name| Slack Name| Github
@@ -86,7 +84,8 @@ Following are the Slack handles of the members (total count: 7)
 | @Vigneshwari |Readme file, project deck, Github Project repo, portfolio |
 | @risper bevalyn| Introduction of the project, data collection and chart in google sheet |
 | @Shudipto Trafder| Essential attributes identification and listing, Readme file |
-   
+
+
 # Dataset utilized
 
 Datasets: [Rice Diseases Image Dataset](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset)
@@ -98,6 +97,7 @@ Dataset of rice images -  4 labels/categories (3 diseases and pests, 1 healthy)
 2) Healthy (1488 files)
 3) Hispa (565 files)
 4) Leaf blast (779 files)
+
 
 # Pretrained models used in this project
 
@@ -123,9 +123,8 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 | @Vigneshwari | Alexnet | [kernel4946364e36](https://www.kaggle.com/drvigneshwari/kernel4946364e36)
 | @risper bevalyn, @happycoder354 | VGG19 | [rice-leaves-disease-classifier](https://www.kaggle.com/risperbevalyn/rice-leaves-disease-classifier?scriptVersionId=17832475)
 
-# Implemented model chart and details
 
-# Analysis
+# Implementation and Analysis
 
 ### Test accuracy:
 GoogleNet results had the highest accuracy (97%), followed by ResNext101_32x8 (81%), ResNet50 (79%, 10 epochs), ResNet50 (69%, 25 epochs), Alexnet (66%), and VGG19 (61%)
