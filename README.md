@@ -21,7 +21,7 @@ Rice is the staple food for more than half the world's population;accordingly, i
 
 <p>We came up with a model that classifies whether a rice leaf :</p>
 
-1) Is healthy:
+1) is healthy:
 <br>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdIquvBXmAJo2M1YfCDbJajiaB1BAcOMxJYT0qr82HOsRAIcL" width="150" height="200" title="hover text">
@@ -45,10 +45,11 @@ Rice is the staple food for more than half the world's population;accordingly, i
   </p>
 </br>
 
-<b><p>We believe that our model will help rice farmers better understand the condition of their rice crops and in turn lead to higher yields.
+<b><p>We believe that our classification model will help rice farmers better understand the condition of their rice crops and in turn lead to higher yields.
 </p></b>
 
-<p> For more detailed project introduction: https://github.com/risper25/MOST- (@risper bevalyn)</p>
+
+<i><p> For more detailed project introduction: https://github.com/risper25/MOST- (@risper bevalyn)</p></i>
 
 
 # Project Participants:
