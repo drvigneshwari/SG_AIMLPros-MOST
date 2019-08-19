@@ -5,7 +5,7 @@ SPAIC - Udacity | Facebook Secure and Privacy AI Challenge 2019.
 
 # Team MOST Project Showcase Challenge
 
-Project <b>MOST</b>, as is stated in the name, focuses on <b>MO</b>deling and <b>ST</b>atistics.  Its mission is to implement different models on same dataset and provide statistics regarding the <i>most accurate model for image processing</i> through the details collected from the models implemented.
+Project <b>MOST</b>, as is stated in the name, focuses on <b>MO</b>deling and <b>ST</b>atistics.  Its mission is to implement different models on the same dataset and provide statistics regarding the most accurate model for image processing through details collected from the models.
 
 The goal of this project is to classify rice diseases using a rice disease dataset on Kaggle. By using various pretrained models such as VGG19 and ResNet50, we try to determine the best model for this task and analyze the pros and cons of each model, with the end goal of competing in the Udacity Facebook Private and Secure AI Scholarship Project Showcase Challenge.
 
