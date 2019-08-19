@@ -4,9 +4,11 @@ SPAIC - Udacity | Facebook Secure and Privacy AI Challenge 2019.
 
 # Project MOST (SG_AIMLPros-MOST/Projects)
 
-### Purpose 1: MOST - MOdeling and STatistics (Implementing different models on same dataset | Providing statistics on "which is the most accurate model for image processing" through the details collected from the models implemented) 
+### Purpose 1: MOST - MOdeling and STatistics 
+Implementing different models on same dataset | Providing statistics on "which is the most accurate model for image processing" through the details collected from the models implemented 
 
-### Purpose 2: Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth. Nearly a fifth of the world’s population are rice farmers.However,they approximately loose 37% of their rice crop yields to various rice diseases.
+### Purpose 2:
+Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth. Nearly a fifth of the world’s population are rice farmers.However,they approximately loose 37% of their rice crop yields to various rice diseases.
 
 
 # Project Participants (Total count : 7)
