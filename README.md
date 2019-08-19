@@ -83,7 +83,20 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 | @Vigneshwari | Alexnet | [kernel4946364e36](https://www.kaggle.com/drvigneshwari/kernel4946364e36)
 | @risper bevalyn, @happycoder354 | VGG19 | [rice-leaves-disease-classifier](https://www.kaggle.com/risperbevalyn/rice-leaves-disease-classifier?scriptVersionId=17832475)
 
-# Implemented model chart and  details
+# Implemented model chart and details
+
+## Analysis
+
+### Accuracy of Pretrained Modesl on the Test Data:
+
+https://docs.google.com/spreadsheets/d/1ZMs9j4nvNw2387g6x5ZdN9uEodQqYqnViGnDU-fwNxQ/edit#gid=0
+
+### Test Accuracy vs Epochs
+
+https://docs.google.com/spreadsheets/d/1ZMs9j4nvNw2387g6x5ZdN9uEodQqYqnViGnDU-fwNxQ/edit#gid=0
+
+
+
 
 # Resources used for reference
 @Ellyana Linden - DLND Udacity course
