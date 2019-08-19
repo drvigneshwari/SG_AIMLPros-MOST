@@ -65,7 +65,7 @@ Following are the slack handles of the members (total count: 7)
 | Vigneshwari Ramakrishnan|@Vigneshwari|https://github.com/drvigneshwari
 | Shudipto Trafder |@Shudipto Trafder | https://github.com/Iamsdt 
 | Laura Truncellito |@LauraT | https://github.com/ltruncel
-| Ellyana Linden |@Ellyana Linden |
+| Ellyana Linden |@Ellyana Linden | https://github.com/ellyanalinden
 |Risper Bevalyn Adera |@risper bevalyn | https://github.com/risper25
 | Shuvam Lal | @happycoder354 |https://github.com/shuvamlal9
 | Anna Scott | @Anna Scott |
