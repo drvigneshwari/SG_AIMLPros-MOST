@@ -87,13 +87,18 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
 ## Analysis
 
-### Accuracy of Pretrained Modesl on the Test Data:
+### Test Accuracy:
+GoogleNet results in the highest accuracy (97%), followed by ResNext101_32x8 (81%), ResNet50 (79%, 10 epochs), ResNet50 (69%, 25 epochs), Alexnet (66%), and VGG19 (61%)
 
-https://docs.google.com/spreadsheets/d/1ZMs9j4nvNw2387g6x5ZdN9uEodQqYqnViGnDU-fwNxQ/edit#gid=0
+### Optimizers
+Two optimizers were selected: Adaptive Moment Estimation (Adam) and Stochastic Gradient Descent (SGD).  Adam is used by @Shudipto Trafder for training resnet 50, and the remaining models were all trained with SGD as an optimizer.
 
-### Test Accuracy vs Epochs:
 
-https://docs.google.com/spreadsheets/d/1ZMs9j4nvNw2387g6x5ZdN9uEodQqYqnViGnDU-fwNxQ/edit#gid=0
+
+<p>For details of the test accuracy and epochs:</p>
+<p>https://docs.google.com/spreadsheets/d/1ZMs9j4nvNw2387g6x5ZdN9uEodQqYqnViGnDU-fwNxQ/edit#gid=0</p>
+
+
 
 
 
