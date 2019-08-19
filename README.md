@@ -110,7 +110,7 @@ Dataset of rice images -  4 labels/ categories (3 diseases and pests, 1 healthy)
 
 Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
-# Link of all models implemented by the participants 
+# Links to all models implemented by the participants 
 
 | Slack Name| Model Name | Kernel Link |
 | --- | ---| ---|
