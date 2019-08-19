@@ -15,14 +15,14 @@ For more detailed project introduction: https://github.com/risper25/MOST- (@risp
 # Project Participants (Total count : 7)
 This is the slack handles of the members
 
-| Name| Slack Name|
+| Name| Slack Name| Github
 |--- | ---|
-| Vigneshwari Ramakrishnan|@Vigneshwari|
-| Shudipto Trafder |@Shudipto Trafder
-| Laura Truncellito |@LauraT 
+| Vigneshwari Ramakrishnan|@Vigneshwari|https://github.com/drvigneshwari
+| Shudipto Trafder |@Shudipto Trafder | https://github.com/Iamsdt 
+| Laura Truncellito |@LauraT | https://github.com/ltruncel
 | Ellyana Linden |@Ellyana Linden
 |Risper Bevalyn Adera |@risper bevalyn
-| Shuvam Lal | @happycoder354
+| Shuvam Lal | @happycoder354 |https://github.com/shuvamlal9
 | Anna Scott | @Anna Scott
 
 # Contributions made by the team
