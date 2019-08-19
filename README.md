@@ -75,7 +75,7 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 | @Ellyana Linden | Resnet50 | [googlenet](https://www.kaggle.com/ellyanalinden/googlenet)
 | @Shudipto Trafder | resnext101_32x8d | [kernelcd66c7e01d-version1](https://www.kaggle.com/iamsdt/kernelcd66c7e01d?scriptVersionId=17795486)
 | @Shudipto Trafder | resnet 50 | [kernelcd66c7e01d](https://www.kaggle.com/iamsdt/kernelcd66c7e01d)
-| @Vigneshwari | Alexnet | https://www.kaggle.com/drvigneshwari/kernel4946364e36
+| @Vigneshwari | Alexnet | [kernel4946364e36](https://www.kaggle.com/drvigneshwari/kernel4946364e36_
 | @risper bevalyn, @happycoder354 | VGG19 | [rice-leaves-disease-classifier](https://www.kaggle.com/risperbevalyn/rice-leaves-disease-classifier?scriptVersionId=17832475)
 
 
