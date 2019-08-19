@@ -12,7 +12,7 @@ The goal of this project is to classify rice diseases using a rice disease datas
 
 # Project Overview:
 
-Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth. Nearly a fifth of the world’s population are rice farmers. However, they approximately lose 37% of their rice crop yields to various rice diseases. 
+Rice is the staple food for more than half the world's population; accordingly, its supply must double by 2050 to keep up with food demand from population growth. Nearly a fifth of the world’s population are rice farmers. However, they lose approximately 37% of their rice crop yields to various rice diseases. 
 
 
 <p align="center">
