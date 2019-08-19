@@ -80,8 +80,6 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
 # Implemented model chart and  details
 
-![image](D:\My Document\Snapshot\2019-08-19 23_50_55-riceproject_details - Google Sheets.png)
-
 # Resources used for reference
 @Ellyana Linden - DLND Udacity course
 
