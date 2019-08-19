@@ -97,9 +97,9 @@ Dataset of rice images -  4 labels/categories (3 diseases and pests, 1 healthy)
 1) Brown spots (523 files)
 2) Healthy (1488 files)
 3) Hispa (565 files)
-4) LeafBlast (779 files)
+4) Leaf blast (779 files)
 
-# Pretrained Models used in this project
+# Pretrained models used in this project
 
 1) GoogleNet
 2) ResNet50
@@ -108,7 +108,7 @@ Dataset of rice images -  4 labels/categories (3 diseases and pests, 1 healthy)
 5) Densenet201
 6) Alexnet
 
-## Link of our project deck / activity records
+## Link to our project deck / activity records
 
 Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
@@ -127,17 +127,17 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
 # Analysis
 
-### Test Accuracy:
-GoogleNet results in the highest accuracy (97%), followed by ResNext101_32x8 (81%), ResNet50 (79%, 10 epochs), ResNet50 (69%, 25 epochs), Alexnet (66%), and VGG19 (61%)
+### Test accuracy:
+GoogleNet results had the highest accuracy (97%), followed by ResNext101_32x8 (81%), ResNet50 (79%, 10 epochs), ResNet50 (69%, 25 epochs), Alexnet (66%), and VGG19 (61%)
 
 ### Optimizers:
 Two optimizers were selected: Adaptive Moment Estimation (Adam) and Stochastic Gradient Descent (SGD).  Adam is used by @Shudipto Trafder for training resnet 50, and the remaining models were all trained with SGD as an optimizer.
 
-### Loss Function:
+### Loss function:
 Cross-entropy loss, or log loss, is used to measure the performance of all classification models in this project.
 
-### Learning Rate:
-The learning rates range of pre-trained models selected in this project range between 0.001 and 0.003.  
+### Learning rate:
+The learning rates of pretrained models selected in this project range between 0.001 and 0.003.  
 
 
 <p>For details of the test accuracy and epochs:</p>
