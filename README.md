@@ -3,7 +3,7 @@
 SPAIC - Udacity | Facebook Secure and Privacy AI Challenge 2019.  
 
 
-# Team-MOST-Project-Showcase-Challenge
+# Team MOST Project Showcase Challenge
 
 Project <b>MOST</b>, as is stated in the name, focuses on <b>MO</b>deling and <b>ST</b>atistics.  Its mission is to implement different models on same dataset and provide statistics regarding the <i>most accurate model for image processing</i> through the details collected from the models implemented.
 
