@@ -78,6 +78,9 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 | @Vigneshwari | Alexnet | [kernel4946364e36](https://www.kaggle.com/drvigneshwari/kernel4946364e36)
 | @risper bevalyn, @happycoder354 | VGG19 | [rice-leaves-disease-classifier](https://www.kaggle.com/risperbevalyn/rice-leaves-disease-classifier?scriptVersionId=17832475)
 
+# Implemented model chart and  details
+
+![image](D:\My Document\Snapshot\2019-08-19 23_50_55-riceproject_details - Google Sheets.png)
 
 # Resources used for reference
 @Ellyana Linden - DLND Udacity course
