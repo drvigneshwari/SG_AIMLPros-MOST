@@ -54,11 +54,11 @@ Rice is the staple food for more than half the world's population; accordingly, 
 <i><p> For a more detailed project introduction: https://github.com/risper25/MOST- (@risper bevalyn)</p></i>
 
 
-# Project Participants:
+# Project Participants
 
  
 
-Following are the slack handles of the members (total count: 7)
+Following are the Slack handles of the members (total count: 7)
 
 | Name| Slack Name| Github
 |--- | ---| --- |
