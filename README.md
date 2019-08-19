@@ -2,7 +2,12 @@
 
 SPAIC - Udacity | Facebook Secure and Privacy AI Challenge 2019.  
 
-# Project MOST (SG_AIMLPros-MOST/Projects)
+
+# Team-MOST-Project-Showcase-Challenge
+
+The goal of this project is to classify rice diseases using a rice disease dataset on Kaggle. By using various pretrained models such as VGG19 and ResNet50, we try to determine the best model for this task and analyze the pros and cons of each model, with the end goal of competing in the Udacity Facebook Private and Secure AI Scholarship Project Showcase Challenge.
+
+## Project MOST (SG_AIMLPros-MOST/Projects)
 
 ### Purpose 1: MOST - MOdeling and STatistics 
 Implementing different models on same dataset | Providing statistics on "which is the most accurate model for image processing" through the details collected from the models implemented 
@@ -20,10 +25,10 @@ This is the slack handles of the members
 | Vigneshwari Ramakrishnan|@Vigneshwari|https://github.com/drvigneshwari
 | Shudipto Trafder |@Shudipto Trafder | https://github.com/Iamsdt 
 | Laura Truncellito |@LauraT | https://github.com/ltruncel
-| Ellyana Linden |@Ellyana Linden
-|Risper Bevalyn Adera |@risper bevalyn
+| Ellyana Linden |@Ellyana Linden |
+|Risper Bevalyn Adera |@risper bevalyn | https://github.com/risper25
 | Shuvam Lal | @happycoder354 |https://github.com/shuvamlal9
-| Anna Scott | @Anna Scott
+| Anna Scott | @Anna Scott |
 
 # Contributions made by the team
 
