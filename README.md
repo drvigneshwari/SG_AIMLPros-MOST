@@ -15,17 +15,19 @@ For more detailed project introduction: https://github.com/risper25/MOST- (@risp
 # Project Participants (Total count : 7)
 This is the slack handles of the members
 
-1) @Vigneshwari 
-2) @Shudipto Trafder 
-3) @LauraT 
-4) @Ellyana Linden
-5) @risper bevalyn
-6) @happycoder354
-7) @Anna Scott    
+| Name| Slack Name|
+|--- | ---|
+| Vigneshwari |@Vigneshwari|
+| Shudipto Trafder |@Shudipto Trafder
+| Laura Truncellito |@LauraT 
+| Ellyana Linden |@Ellyana Linden
+|Risper Bevalyn Adera |@risper bevalyn
+| Shuvam Lal | @happycoder354
+| Anna Scott | @Anna Scott
 
 # Contributions made by the team
 
-## 1) Pre-trained Model implementation 
+## 1) Pre-trained Model implementation
 1) @Ellyana Linden
 2) @Shudipto Trafder
 3) @Vigneshwari 
@@ -33,14 +35,16 @@ This is the slack handles of the members
 5) @happycoder354
 
 ## 2) Technical Documentations | Other
-1) @LauraT - Description of the models implemented for the projects | Readme file |  https://github.com/ltruncel/team-MOST-project-showcase-challenge/blob/master/README.md 
-2) @Vigneshwari - Readme file | Project deck | Github Project repo | Portfolio | https://github.com/drvigneshwari/SG_AIMLPros-MOST/edit/master/README.md
-3) @risper bevalyn - Introduction of the project | Data collection and chart in google sheet | https://github.com/risper25/MOST-
-4) @Shudipto Trafder - Essential attributes identification and listing  | https://secureprivataischolar.slack.com/archives/DLFN5DQUT/p1566140170009000
+|Slack Name|Contribution Areas|
+|---| ---|
+| @LauraT |Description of the models implemented for the projects, Readme file |
+| @Vigneshwari |Readme file,  Project deck, Github Project repo,  Portfolio |
+| @risper bevalyn| Introduction of the project, Data collection and chart in google sheet |
+| @Shudipto Trafder| Essential attributes identification and listing, Readme file |
    
 # Dataset Utilized
 
-Rice diseses dataset from Kaggle | Link:  https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset
+Datasets: [Rice Diseases Image Dataset](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset)
 
 ## Details of the dataset
 
@@ -55,7 +59,7 @@ Dataset of rice images -  4 labels/ categories (3 diseases and pests, 1 healthy)
 1) GoogleNet
 2) ResNet50
 3) VGG19
-4) Resnext101
+4) Resnext101_32x8d
 5) Densenet201
 6) Alexnet
 
@@ -65,12 +69,14 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
 # Link of all models implemented by the participants 
 
-1) @Ellyana Linden | GoogleNet - https://github.com/ellyanalinden/rice_diseases_kaggle/blob/master/googlenet.ipynb
-2) @Ellyana Linden | Resnet50  - https://www.kaggle.com/ellyanalinden/googlenet
-3) @Shudipto Trafder | resnext101_32x8d -  https://www.kaggle.com/iamsdt/kernelcd66c7e01d?scriptVersionId=17795486
-4) @Shudipto Trafder | resnet 50 - https://www.kaggle.com/iamsdt/kernelcd66c7e01d
-5) @risper bevalyn, @happycoder354 | VGG19 - https://www.kaggle.com/risperbevalyn/rice-leaves-disease-classifier?scriptVersionId=17832475
-6) @Vigneshwari | Alexnet -  link to be added
+| Slack Name| Model Name | Kernel Link |
+| --- | ---| ---|
+| @Ellyana Linden | GoogleNet | [googlenet.ipynb](https://github.com/ellyanalinden/rice_diseases_kaggle/blob/master/googlenet.ipynb)
+| @Ellyana Linden | Resnet50 | [googlenet](https://www.kaggle.com/ellyanalinden/googlenet)
+| @Shudipto Trafder | resnext101_32x8d | [kernelcd66c7e01d-version1](https://www.kaggle.com/iamsdt/kernelcd66c7e01d?scriptVersionId=17795486)
+| @Shudipto Trafder | resnet 50 | [kernelcd66c7e01d](https://www.kaggle.com/iamsdt/kernelcd66c7e01d)
+| @risper bevalyn, @happycoder354 | VGG19 | [rice-leaves-disease-classifier](https://www.kaggle.com/risperbevalyn/rice-leaves-disease-classifier?scriptVersionId=17832475)
+| @Vigneshwari | Alexnet | link to be added
 
 # Resources used for reference
 
