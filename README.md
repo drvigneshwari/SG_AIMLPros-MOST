@@ -150,7 +150,7 @@ GoogleNet is a class of architecture designed by researchers at Google. It was t
 
 <br>
 <p align="center">
-  <img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/08/08131905/temp10.png" width="300" height="200" title="hover text">
+  <img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/08/08131905/temp10.png" width="400" height="300" title="hover text">
   </p>
 </br>
 
