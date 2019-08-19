@@ -9,7 +9,7 @@ Implementing different models on same dataset | Providing statistics on "which i
 
 ### Purpose 2:
 Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth. Nearly a fifth of the world’s population are rice farmers.However,they approximately loose 37% of their rice crop yields to various rice diseases. 
-
+We believe our model will help rice farmers know their rice crop’s condition ,hence leading to higher yields.
 For more detailed project introduction: https://github.com/risper25/MOST- (@risper bevalyn)
 
 # Project Participants (Total count : 7)
