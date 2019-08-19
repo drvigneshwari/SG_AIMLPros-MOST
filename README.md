@@ -16,7 +16,7 @@ For more detailed project introduction: https://github.com/risper25/MOST- (@risp
 This is the slack handles of the members
 
 | Name| Slack Name| Github
-|--- | ---|
+|--- | ---| --- |
 | Vigneshwari Ramakrishnan|@Vigneshwari|https://github.com/drvigneshwari
 | Shudipto Trafder |@Shudipto Trafder | https://github.com/Iamsdt 
 | Laura Truncellito |@LauraT | https://github.com/ltruncel
