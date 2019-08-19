@@ -155,7 +155,7 @@ GoogleNet is a class of architecture designed by researchers at Google. It was t
 
 As we can see, multiple types of feature extractors are present, which is drastically different from the sequential architectures of other models.  Also, the final architecture contains multiple inception modules stacked one over the other, which helps the model converges faster.  
 
-
+In summary, GoogleNet is superior than AlexNet, Resnet50, Resnext101_32x8, or VGG19 for the purpose detecting rice diseases.
 
 
 
