@@ -108,11 +108,11 @@ Dataset of rice images -  4 labels/ categories (3 diseases and pests, 1 healthy)
 5) Densenet201
 6) Alexnet
 
-# Link of our project deck / activity records
+## Link of our project deck / activity records
 
 Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
-# Links to all models implemented by the participants 
+## Links to all models implemented by the participants 
 
 | Slack Name| Model Name | Kernel Link |
 | --- | ---| ---|
@@ -125,7 +125,7 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 
 # Implemented model chart and details
 
-## Analysis
+# Analysis
 
 ### Test Accuracy:
 GoogleNet results in the highest accuracy (97%), followed by ResNext101_32x8 (81%), ResNet50 (79%, 10 epochs), ResNet50 (69%, 25 epochs), Alexnet (66%), and VGG19 (61%)
