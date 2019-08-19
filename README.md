@@ -28,12 +28,12 @@ Rice is the staple food for more than half the world's population; accordingly, 
   </p>
 </br>
 
-2) has brownspot:
+2) has brown spots:
 <p align="center">
   <img src="http://www.knowledgebank.irri.org/images/stories/brown-spot-1.jpg" width="150" height="200" title="hover text">
   </p>
   
-3) has leafblast:
+3) has leaf blast:
 <br>
 <p align="center">
   <img src="https://miro.medium.com/max/706/1*5OIVPVgxZyPy-OE2Lw8lBg.png" width="150" height="200" title="hover text">
@@ -72,29 +72,29 @@ Following are the Slack handles of the members (total count: 7)
 
 # Contributions made by the team
 
-## 1) Pre-trained Model implementation
+## 1) Pre-trained model implementation
 1) @Ellyana Linden
 2) @Shudipto Trafder
 3) @Vigneshwari 
 4) @risper bevalyn
 5) @happycoder354
 
-## 2) Technical Documentations | Other
+## 2) Technical documentation | Other
 |Slack Name|Contribution Areas|
 |---| ---|
 | @LauraT |Description of the models, Readme file |
-| @Vigneshwari |Readme file,  Project deck, Github Project repo,  Portfolio |
-| @risper bevalyn| Introduction of the project, Data collection and chart in google sheet |
+| @Vigneshwari |Readme file, project deck, Github Project repo, portfolio |
+| @risper bevalyn| Introduction of the project, data collection and chart in google sheet |
 | @Shudipto Trafder| Essential attributes identification and listing, Readme file |
    
-# Dataset Utilized
+# Dataset utilized
 
 Datasets: [Rice Diseases Image Dataset](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset)
 
 ## Details of the dataset
 
-Dataset of rice images -  4 labels/ categories (3 diseases and pests, 1 healthy). 
-1) Brown Spot (523 files)
+Dataset of rice images -  4 labels/categories (3 diseases and pests, 1 healthy) 
+1) Brown spots (523 files)
 2) Healthy (1488 files)
 3) Hispa (565 files)
 4) LeafBlast (779 files)
