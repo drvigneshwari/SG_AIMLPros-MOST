@@ -18,7 +18,7 @@ We believe our model will help rice farmers know their rice crop’s condition ,
 For more detailed project introduction: https://github.com/risper25/MOST- (@risper bevalyn)
 
 # Project Participants (Total count : 7)
-This is the slack handles of the members
+Following are the slack handles of the members
 
 | Name| Slack Name| Github
 |--- | ---| --- |
