@@ -1,6 +1,6 @@
 # SPAIC | SG_AIMLPros
 
-SPAIC - Udacity | Facebook Secure and Privacy AI Challenge 2019.  
+SPAIC - 2019 Udacity Facebook Secure & Private AI Challenge Scholarship Program  
 
 
 # Team MOST Project Showcase Challenge
