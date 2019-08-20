@@ -19,23 +19,20 @@ Rice is the staple food for more than half the world's population; accordingly, 
 <p align="center" xmlns="http://www.w3.org/1999/html">
   <img src="https://davidcliveprice.com/wp-content/uploads/2014/11/asian-rice-farmers.jpg" width="350" title="hover text">
 <br/>
-Image Credit: [Davidcliveprice.com](https://davidcliveprice.com/wp-content/uploads/2014/11/asian-rice-farmers.jpg)
+Image Credit: <a href="https://davidcliveprice.com/wp-content/uploads/2014/11/asian-rice-farmers.jpg">Davidcliveprice.com</a>
 </p>
   
 
 <p>We came up with a model that classifies whether a rice leaf </p>
 
 
-| Types| Picture|
-| --- | ---| 
-| Healthy | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdIquvBXmAJo2M1YfCDbJajiaB1BAcOMxJYT0qr82HOsRAIcL" width="150" height="200" title="hover text">|
-| Brown spots| <img src="http://www.knowledgebank.irri.org/images/stories/brown-spot-1.jpg" width="150" height="200" title="hover text">|
-| Leaf blast| <img src="https://miro.medium.com/max/706/1*5OIVPVgxZyPy-OE2Lw8lBg.png" width="150" height="200" title="hover text">|
-| Hispa| <img src="https://content.peat-cloud.com/hd/rice-hispa--1.jpg" width="150" height="200" title="hover text">|
+| Types1 | Types2 | Types 3 | Types 4
+| --- | ---| ---| ---
+| Healthy | Brown spots | Leaf blast| Hispa
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdIquvBXmAJo2M1YfCDbJajiaB1BAcOMxJYT0qr82HOsRAIcL" width="150" height="200" title="hover text">|  <img src="http://www.knowledgebank.irri.org/images/stories/brown-spot-1.jpg" width="150" height="200" title="hover text">| <img src="https://miro.medium.com/max/706/1*5OIVPVgxZyPy-OE2Lw8lBg.png" width="150" height="200" title="hover text">| <img src="https://content.peat-cloud.com/hd/rice-hispa--1.jpg" width="150" height="200" title="hover text">|
 
 <b><p>We believe that our classification model will help rice farmers better understand the condition of their rice crops and in turn lead to higher yields.
 </p></b>
-
 
 <i><p> For a more detailed project introduction: https://github.com/risper25/MOST- (@risper bevalyn)</p></i>
 
