@@ -188,10 +188,10 @@ Udacity Facebook AI Secure and Privacy Scholarship Challenge of 2019
 <ul> 
  <li>Federated learning</li>
  <li>Model | Train | Test | Deploy datasets using pre-trained model of image classification</li>
- </li>Increasing the accuracy of the model using epochs and other approaches</li>
- </li>Hyperparameter Tuning</li>
- </li>Implementation | Usage of PyTorch</li>
- </li>Utilization of different model optimizers, loss functions, learning rate, freezing layers etc</li>
+ <li>Increasing the accuracy of the model using epochs and other approaches</li>
+ <li>Hyperparameter Tuning</li>
+ <li>Implementation | Usage of PyTorch</li>
+ <li>Utilization of different model optimizers, loss functions, learning rate, freezing layers etc</li>
 </ul>
 
 
