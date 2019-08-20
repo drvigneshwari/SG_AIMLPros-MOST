@@ -123,6 +123,7 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 | @Shudipto Trafder | resnet 50 | [kernelcd66c7e01d](https://www.kaggle.com/iamsdt/kernelcd66c7e01d)
 | @Vigneshwari | Alexnet | [kernel4946364e36](https://www.kaggle.com/drvigneshwari/kernel4946364e36)
 | @risper bevalyn, @happycoder354 | VGG19 | [rice-leaves-disease-classifier](https://www.kaggle.com/risperbevalyn/rice-leaves-disease-classifier?scriptVersionId=17832475)
+| @Anna Scott | VGG 16 |[kernel-vgg16](https://www.kaggle.com/scottanna/kernel-vgg16/)
 
 
 # Implementation and Analysis
