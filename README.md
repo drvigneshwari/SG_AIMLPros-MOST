@@ -171,16 +171,19 @@ Through implementation of the rice project, we have also found that GoogleNet is
 
 # Value behind this project
 
-This project is the implementation of advanced Machine learning techiques which can create a great impact in the life of farmers and all the life existense in this world. The primary utilization of this project may greatly impact in the domain of agriculture. 
+This project is the implementation of advanced Machine learning techiques which can create a great impact in the life of farmers and all the life existense in this world. The primary utilization of this project may greatly impact in the <b>domain of agriculture.<b> 
 
 According to the research by Kihoro, J., Bosco, N.J., Murage, H. et al. SpringerPlus (2013) [2: 308. https://doi.org/10.1186/2193-1801-2-308], Investigating the impact of rice blast disease on the livelihood of the local farmers in greater Mwea region of Kenyamers, conveyed that <b>rice blast disease is the most destructive disease compared to other diseases the farmers mentioned that it is possible to harvest nothing when affected by the disease. </b>
 
 ### Percentage rice blast incidences in the various planting group from 2006 to 2010.
 ![2019-08-20 11_41_36-Investigating the impact of rice blast disease on the livelihood of the local fa](https://user-images.githubusercontent.com/50787118/63321822-813b1680-c33f-11e9-9e81-9bd54699661f.png)
+
 [Image credit: https://link.springer.com/article/10.1186/2193-1801-2-308#copyrightInformation]
 
 ### Figure shows the rice blast disease cases created and pointed with point symbol on the Mwea region map
 ![2019-08-20 11_39_24-Investigating the impact of rice blast disease on the livelihood of the local fa](https://user-images.githubusercontent.com/50787118/63321742-3ae5b780-c33f-11e9-8e8c-c30e7087728c.png)
+
+[Image credit: https://link.springer.com/article/10.1186/2193-1801-2-308#copyrightInformation]
 
 From this analysis, it is <b> predominantly highlighting the loss faced by the farmers in the Mwea region of Kenyamers. This loss is not limited to farmers of Kenya but also throughout the world. Hence, taking this problem statement forward we are trying to provide a better solution to identify the rice diseases using the best model out of other pre-trained models for image classification. 
 
