@@ -67,7 +67,7 @@ Following are the Slack handles of the members (total count: 7)
 | Ellyana Linden |@Ellyana Linden | https://github.com/ellyanalinden
 |Risper Bevalyn Adera |@risper bevalyn | https://github.com/risper25
 | Shuvam Lal | @happycoder354 |https://github.com/shuvamlal9
-| Anna Scott | @Anna Scott |
+| Anna Scott | @Anna Scott | https://github.com/forfireonly
 
 # Contributions made by the team
 
