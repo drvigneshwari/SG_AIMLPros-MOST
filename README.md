@@ -77,6 +77,7 @@ Following are the Slack handles of the members (total count: 7)
 3) @Vigneshwari 
 4) @risper bevalyn
 5) @happycoder354
+6) @Anna Scott
 
 ## 2) Technical documentation | Other
 |Slack Name|Contribution Areas|
