@@ -19,8 +19,8 @@ Rice is the staple food for more than half the world's population; accordingly, 
 <p align="center">
   <img src="https://davidcliveprice.com/wp-content/uploads/2014/11/asian-rice-farmers.jpg" width="350" title="hover text">
   </p>
-  Image Credit: [Davidcliveprice.com](https://davidcliveprice.com/wp-content/uploads/2014/11/asian-rice-farmers.jpg)
   
+Image Credit: [Davidcliveprice.com](https://davidcliveprice.com/wp-content/uploads/2014/11/asian-rice-farmers.jpg)
 
 <p>We came up with a model that classifies whether a rice leaf </p>
 
