@@ -185,9 +185,13 @@ According to the research by Kihoro, J., Bosco, N.J., Murage, H. et al. Springer
 
 [Image credit: https://link.springer.com/article/10.1186/2193-1801-2-308#copyrightInformation]
 
-From this analysis, it is <b> predominantly highlighting the loss faced by the farmers in the Mwea region of Kenyamers. This loss is not limited to farmers of Kenya but also throughout the world. Hence, taking this problem statement forward we are trying to provide a better solution to identify the rice diseases using the best model out of other pre-trained models for image classification. 
+From this analysis, it is <b> predominantly highlighting the loss faced by the farmers in the Mwea region of Kenyamers. This loss is not limited to farmers of Kenyamers but also throughout the world.</b> 
+
+Hence, taking this problem statement forward we are trying to provide a better solution to identify the rice diseases using the best model out of other pre-trained models for image classification and have achieved the goal of this project with the help of the learnings gained through Udacity Facebook AI Secure and Privacy Scholarship Challenge of 2019.    
 
 # Expansion of the scope of the project
+
+
 
 # References
 @Ellyana Linden - DLND Udacity course
