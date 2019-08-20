@@ -151,7 +151,7 @@ Through implementation of the rice project, we have also found that GoogleNet is
 
 # Value behind this project
 
-This project is the implementation of advanced Machine learning techiques which can create a great impact in the life of farmers and all the life existense in this world. The primary utilization of this project may greatly impact in the <b>domain of agriculture.<b> 
+This project is the implementation of advanced Machine learning techiques which can create a great impact in the life of farmers and all the life existense in this world. The primary utilization of this project may greatly impact in the <b>domain of agriculture.</b> 
 
 According to the research by Kihoro, J., Bosco, N.J., Murage, H. et al. SpringerPlus (2013) [2: 308. https://doi.org/10.1186/2193-1801-2-308], Investigating the impact of rice blast disease on the livelihood of the local farmers in greater Mwea region of Kenyamers, conveyed that <b>rice blast disease is the most destructive disease compared to other diseases the farmers mentioned that it is possible to harvest nothing when affected by the disease. </b>
 
@@ -181,7 +181,9 @@ For more details on Federated learning: https://ai.googleblog.com/2017/04/federa
 
 [Image credit: https://ai.googleblog.com/2017/04/federated-learning-collaborative.html]
 
-This approach with the combination of <b><i>federated learning</i></b> and the <b><i>best model</i></b> identified through this project, helps the model refined with accuracy day-by-day in identification of the rice diseases in-addition ensuring the privacy of the user's data too. 
+This approach with the combination of 
+
+<i>federated learning</i></b> and the <b><i>best model</i></b> identified through this project, helps the model refined with accuracy day-by-day in identification of the rice diseases in-addition ensuring the privacy of the user's data too. 
 
 # Learnings implemented from SPAIC
 Udacity Facebook AI Secure and Privacy Scholarship Challenge of 2019
