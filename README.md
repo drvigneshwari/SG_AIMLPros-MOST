@@ -109,6 +109,7 @@ Dataset of rice images -  4 labels/categories (3 diseases and pests, 1 healthy)
 4) Resnext101_32x8d
 5) Densenet201
 6) Alexnet
+7) VGG16
 
 ## Link to our project deck / activity records
 
@@ -121,16 +122,16 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 | @Ellyana Linden | GoogleNet | [googlenet.ipynb](https://github.com/ellyanalinden/rice_diseases_kaggle/blob/master/googlenet.ipynb)
 | @Ellyana Linden | Resnet50 | [googlenet](https://www.kaggle.com/ellyanalinden/googlenet)
 | @Shudipto Trafder | resnext101_32x8d | [kernelcd66c7e01d-version1](https://www.kaggle.com/iamsdt/kernelcd66c7e01d?scriptVersionId=17795486)
-| @Shudipto Trafder | resnet 50 | [kernelcd66c7e01d](https://www.kaggle.com/iamsdt/kernelcd66c7e01d)
+| @Shudipto Trafder | Resnet50 | [kernelcd66c7e01d](https://www.kaggle.com/iamsdt/kernelcd66c7e01d)
 | @Vigneshwari | Alexnet | [kernel4946364e36](https://www.kaggle.com/drvigneshwari/kernel4946364e36)
 | @risper bevalyn, @happycoder354 | VGG19 | [rice-leaves-disease-classifier](https://www.kaggle.com/risperbevalyn/rice-leaves-disease-classifier?scriptVersionId=17832475)
-| @Anna Scott | VGG 16 |[kernel-vgg16](https://www.kaggle.com/scottanna/kernel-vgg16/)
+| @Anna Scott | VGG16 |[kernel-vgg16](https://www.kaggle.com/scottanna/kernel-vgg16/)
 
 
 # Implementation and Analysis
 
 ### Test accuracy:
-GoogleNet results had the highest accuracy (97%), followed by ResNext101_32x8 (81%), ResNet50 (79%, 10 epochs), ResNet50 (69%, 25 epochs), Alexnet (66%), and VGG19 (61%)
+GoogleNet results had the highest accuracy (97%), followed by ResNext101_32x8 (81%), VGG16 (81%), ResNet50 (79%, 10 epochs), ResNet50 (69%, 25 epochs), Alexnet (66%), and VGG19 (61%)
 
 ### Optimizers:
 Two optimizers were selected: Adaptive Moment Estimation (Adam) and Stochastic Gradient Descent (SGD).  Adam is used by @Shudipto Trafder for training resnet 50, and the remaining models were all trained with SGD as an optimizer.
