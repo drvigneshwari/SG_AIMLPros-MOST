@@ -169,7 +169,30 @@ From this analysis, it is <b> predominantly highlighting the loss faced by the f
 
 Hence, taking this problem statement forward we are trying to provide a better solution to identify the rice diseases using the best model out of other pre-trained models for image classification and have achieved the goal of this project with the help of the learnings gained through Udacity Facebook AI Secure and Privacy Scholarship Challenge of 2019.    
 
-# Expansion of the scope of the project
+# Taking the project further
+
+This is a baselined project tested and identified best model to be used for the classification. To take this project forward, we can create a mobile application to detect the rice diseases at instant, with better user-interface enabling the usage at ease for any kind of users. 
+
+This mobile application can utilize the approch of Federated learning enabling the application in mobile phones to learn a shared prediction model by collaborating with each other (other mobile devices) while keeping all the training data on device, decoupling the ability to do machine learning from the need to store the data in the cloud. This goes beyond the use of local models that make predictions on mobile devices (like the Mobile Vision API and On-Device Smart Reply) by bringing model training to the device as well.
+
+For more details on Federated learning: https://ai.googleblog.com/2017/04/federated-learning-collaborative.html
+
+![2019-08-20 13_27_05-Google AI Blog_ Federated Learning_ Collaborative Machine Learning without Centr](https://user-images.githubusercontent.com/50787118/63329023-d0d50e80-c34e-11e9-8865-6937a8aa3ea1.png)
+
+[Image credit: https://ai.googleblog.com/2017/04/federated-learning-collaborative.html]
+
+This approach with the combination of <b><i>federated learning</i></b> and the <b><i>best model</i></b> identified through this project, helps the model refined with accuracy day-by-day in identification of the rice diseases in-addition ensuring the privacy of the user's data too. 
+
+# Learnings implemented from SPAIC
+Udacity Facebook AI Secure and Privacy Scholarship Challenge of 2019
+<ul> 
+ <li>Federated learning</li>
+ <li>Model | Train | Test | Deploy datasets using pre-trained model of image classification</li>
+ </li>Increasing the accuracy of the model using epochs and other approaches</li>
+ </li>Hyperparameter Tuning</li>
+ </li>Implementation | Usage of PyTorch</li>
+ </li>Utilization of different model optimizers, loss functions, learning rate, freezing layers etc</li>
+</ul>
 
 
 
@@ -200,6 +223,8 @@ https://pytorch.org/docs/stable/torchvision/models.html
 <p>TORCHVISION.MODELS</p>
 <p>https://pytorch.org/docs/stable/torchvision/models.html</p>
 
+@happycoder354 
 
+https://towardsdatascience.com/hyperparameter-tuning-c5619e7e6624
  
 
