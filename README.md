@@ -146,9 +146,9 @@ The learning rates of pretrained models selected in this project range between 0
 
 ### Results from analysis:
 
-![2019-08-20 09_59_59-riceproject_details - Google Sheets](https://user-images.githubusercontent.com/50787118/63317698-75e0ee80-c331-11e9-969b-438fa90e424b.png)
+![2019-08-20 11_57_29-riceproject_details - Google Sheets](https://user-images.githubusercontent.com/50787118/63322739-c06a6700-c341-11e9-9bdb-49223630b24b.png)
  
-![2019-08-20 10_00_41-riceproject_details - Google Sheets](https://user-images.githubusercontent.com/50787118/63317692-6e214a00-c331-11e9-8042-62e475d4fa2c.png)
+![2019-08-20 11_57_22-riceproject_details - Google Sheets](https://user-images.githubusercontent.com/50787118/63322741-c102fd80-c341-11e9-8104-c7628b149a34.png)
 
 <p>For details of the test accuracy and epochs:</p>
 <p>https://docs.google.com/spreadsheets/d/1ZMs9j4nvNw2387g6x5ZdN9uEodQqYqnViGnDU-fwNxQ/edit#gid=0</p>
