@@ -139,7 +139,7 @@ Cross-entropy loss, or log loss, is used to measure the performance of all class
 ### Learning rate:
 The learning rates of pretrained models selected in this project range between 0.001 and 0.003.  
 
-### Results from analysis
+### Results from analysis:
 
 ![2019-08-20 09_59_59-riceproject_details - Google Sheets](https://user-images.githubusercontent.com/50787118/63317698-75e0ee80-c331-11e9-969b-438fa90e424b.png)
  
